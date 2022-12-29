@@ -5,7 +5,7 @@ drops below a certain threshold.
 This program only gets the price one time. The program was designed with the intent of hosting it online and running as 
 a scheduled task. 
 
-To run this program, update the headers and all the email variables with your information.
+To run this program, **update the headers and all the email variables** with your information.
 
 
 If you want to try searching for a different product, the product URL (and target price) can be changed, but be advised 
